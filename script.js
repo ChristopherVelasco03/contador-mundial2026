@@ -1,6 +1,6 @@
 // Calcula la fecha que está 884 días en el futuro
 const endDate = new Date();
-endDate.setDate(endDate.getDate() + 384);
+endDate.setDate(endDate.getDate() + 884);
 
 const dias = document.getElementById('dias');
 const horas = document.getElementById('horas');
